@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsleExpedionsCollection", "IsleExpedionsCollection\IsleExpedionsCollection.csproj", "{31F8499D-DC29-456F-A184-7F50FDC8EBEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F8499D-DC29-456F-A184-7F50FDC8EBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F8499D-DC29-456F-A184-7F50FDC8EBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F8499D-DC29-456F-A184-7F50FDC8EBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F8499D-DC29-456F-A184-7F50FDC8EBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {118121A5-C83E-4950-A6DE-B1557FC1A421}
+	EndGlobalSection
+EndGlobal
